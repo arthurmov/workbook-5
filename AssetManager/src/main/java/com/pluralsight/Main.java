@@ -12,7 +12,7 @@ public class Main {
                 200000,
                 "123 Sesame",
                 2,
-                6000,
+                600,
                 200);
 
 
